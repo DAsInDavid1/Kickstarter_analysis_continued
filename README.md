@@ -3,7 +3,7 @@
 ## Overview of Project
 Louise would like to know how different Theater campaigns fared in relation to their launch dates and their funding goals. 
 ### Purpose
-We want to compare all the theater campaigns and how they did compared to the months they launched. We then want to compare how a campaign did compared to goal $ amount. This will allow Louise to either plan out future campaigns with a better chance of success.
+We want to compare all the theater campaigns and how they did compared to the months they launched. We then want to compare how a campaign did compared to goal $ amount. This will allow Louise to plan out future campaigns with a better chance of success.
 ## Analysis and Challenges
 We compared all the parent category Theater campaigns and whether they were successful, failed, or canceled based on the month they launched their campaign on Kickstarter. We then compared subcategories Plays to see if their was a correlation to the $ amount they were asking for, to whether they were successful, failed, or canceled. The challenges that arose is that we don’t know if their were special deals/advertisements for certain campaigns made by Kickstarter to support theater or plays on their website. We also 
 ### Analysis of Outcomes Based on Launch Date
